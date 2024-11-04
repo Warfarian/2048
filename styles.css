@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Arial', Helvetica, sans-serif;
     text-align: center;
 }
 
@@ -100,4 +100,21 @@ hr{
 .x8192{
     background-color: #ff2020;
     color: white;
+}
+
+button{
+    color: white;    
+    background-color: #f57c5f;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+    padding: 5px;
+    padding: 2px;
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+button:hover{
+    background-color: #f65e38;
 }
